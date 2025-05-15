@@ -9,7 +9,7 @@
 
 ---
 
-🏢 **Current Role:** Lead Full Stack Developer @ Infinite Machine  
+🏢 **Current Role:** Senior Full Stack Developer @ Infinite Machine  
 🌍 **Location:** New York, NY  
 💬 **Focus Areas:** Full Stack Engineering, ML Systems, DevOps & Cloud Infrastructure  
 🧠 **Strengths:** Python, Django, Flask, React, FastAPI, AWS, GCP, Docker, Kubernetes, MLOps, and Scalable Architectures  
